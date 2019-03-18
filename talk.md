@@ -14,7 +14,9 @@ Types of talks you might encounter
 - Seminar talks: one research program (1 lab, over a few years, 45-60 minute slot).
 - Keynote talks: one research field (many labs, over decades, 60-90 minute slot).
 - Outreach talks (to lay people, e.g., TED talks): many formats.
+- Lectures (like this one!)
 
+Many lessons apply to all these types of talk, but there are specificities too.
 We are focusing here on the _research talk_ context: a presentation of less
 than 30 minutes of novel scientific work to an audience of peers.
 
