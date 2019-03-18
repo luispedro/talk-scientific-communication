@@ -8,12 +8,15 @@ Luis Pedro Coelho
 
 Most important question: What is the **purpose** of the talk?
 
-- Research talks: one research result (1-2 papers, 10-30 minute slot)
-- Seminar talks: one research program (1 lab, over a few years, 45-60 minute slot)
-- Keynote talks: one research field (many labs, over decades, 60-90 minute slot)
+Types of talks you might encounter
 
-We are focusing here on the _research talk_ context: a less than 30 minutes
-presentation of scientific work to an audience of peers.
+- Research talks: one research result (1-2 papers, 10-30 minute slot).
+- Seminar talks: one research program (1 lab, over a few years, 45-60 minute slot).
+- Keynote talks: one research field (many labs, over decades, 60-90 minute slot).
+- Outreach talks (to lay people, e.g., TED talks): many formats.
+
+We are focusing here on the _research talk_ context: a presentation of less
+than 30 minutes of novel scientific work to an audience of peers.
 
 ---
 
@@ -80,6 +83,7 @@ talk at a department to a broader audience can be different.
 
 ## Clearly signal when you end
 
+- Often, it is appropriate (even required) to acknowledge co-authors/funders/...
 - Make sure people know when you are done, do not trail off.
 - Some people say _I will take questions_, but let the chair do that (if there
   is one).
@@ -87,6 +91,8 @@ talk at a department to a broader audience can be different.
 ---
 
 ## Timesplit
+
+Assuming you have 10 minutes:
 
 1. Introduction/context (1 min)
 2. Specific problem (2 min)
@@ -120,10 +126,14 @@ talk at a department to a broader audience can be different.
 
 ## Slides/delivery
 
-- You need to explain what you are showing.
+- You need to explain what you are showing. Explain the axes on plots.
 - You should not be reading.
 - Look to the audience.
 - Watch your body language.
+- Tell a story. This does not mean _the real story of how you got to the
+  results_. That can be interesting, but mostly it means that there are
+  natural, logical, transitions between slides and not just one thing after
+  another.
 
 ---
 
@@ -138,6 +148,9 @@ there is a question in practice, you should:
 3. be prepared to answer the question if it comes up, but realize that there is
    never a perfect presentation for everyone.
 
+Normally, the first practice will involve a lot of #1, then if you polish more
+and more, you have feedback that falls into group #2/#3.
+
 ---
 
 ## Handling questions: live
@@ -146,11 +159,12 @@ People will (hopefully) ask you questions!
 
 If you know the answer immediately:
 
-- keep the answer short, you can use formulations such as _[SHORT SUMMARY], and
-  I can go into more detail offline/during the coffee break_
+- answer it, but keep the answer short. You can use formulations such as
+  _[SHORT SUMMARY], and I can go into more detail offline/during the coffee
+  break_
 - clearly mark where you are speculating, _I do not have the data for it, but
   my intution/mental model is ..._ or _one thing that is consistent is that..._
-- engage with the person
+- engage with the person.
 
 If you do not:
 
@@ -160,14 +174,20 @@ If you do not:
 - say _I don't know_ or _that was outside the scope of this project_.
 
 Almost always, there will be a small set of questions that keep coming up
-(which is why _preparation is important_).
+(which is why _preparation is important_), for those you can pre-prepare
+additional material.
+
+You can follow-up during the break (network!): _you asked about X? is that what
+you are working on or just curiosity?_ or _I don't have a good answer for X
+right now, but I would love to know more about it?_
 
 ---
 
 ## Pace
 
-- Rules of thumb as mostly useless: _30 seconds per slide_, _one minute per
-  slide_, _two minutes per slide_, ...
+- Rules of thumb are mostly useless: _30 seconds per slide_, _one minute per
+  slide_, _two minutes per slide_, ... Really depends on your style and even
+  individual slides.
 - Do not be faster than if you were writing on the whiteboard.
 - If you have issues with English, **slow down**.
 - Prepare _Breadcrumbs_ ("after 3 minutes, I should be finishing slide 4").
@@ -203,7 +223,8 @@ You will need to
 You may end up present _less_ material in the time alloted: for example, if you
 are a computational person presenting to an applied audience, the best use of
 your time may be to present _the intuition behind your algorithm_ and some
-empirical evidence, leaving out any formal analyses altogether.
+empirical evidence, leaving out any formal analyses altogether. This is
+perfectly fine.
 
 Do **not** try to present something inferior to please the audience (e.g., some
 speculations from your work which are only weakly supported, but fit what you
@@ -221,8 +242,8 @@ This is just bad preparation.
 
 - Avoid _laundry lists_: "this is X, this is Y, this is Z, ...". Either you
   need more lack narrative structure (instead of "these are the results of X
-  analysis", say "X analysis confirmed the hypothesis") or need to cut things
-  out.
+  analysis", say "X analysis confirmed/disproved the hypothesis") or need to
+  cut things out.
 
 ---
 
