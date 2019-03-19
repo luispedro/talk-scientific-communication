@@ -81,6 +81,10 @@ talk at a department to a broader audience can be different.
 - Repeat the _key points_.
 - Not too many.
 
+_Tip_: when preparing **start with the summary slide**. In 10 minutes, you will
+be able to transmit 2-3 points, every other slide should serve to reinforce
+these points.
+
 ---
 
 ## Clearly signal when you end
