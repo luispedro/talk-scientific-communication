@@ -20,6 +20,8 @@ Many lessons apply to all these types of talk, but there are specificities too.
 We are focusing here on the _research talk_ context: a presentation of less
 than 30 minutes of novel scientific work to an audience of peers.
 
+This lecture has too much text to be a good research talk!
+
 ---
 
 ## Purpose of the talk
@@ -39,26 +41,33 @@ Scientists at a conference are (generally):
 
 Many structures are possible. A generic one is
 
-1. Introduction/context
+1. Background
 2. Specific problem
-3. Your solution
+3. Your results
 4. Conclusions
 
 ---
 
-## Introduction → specific problem
+## Context → specific problem
 
+Often, this is called _the introduction_, but I find that word overly broad.
+
+What you need to do is **take the audience from where they are to where you
+are**. The purpose is to make the audience care about the specific question
+that you studied.
 
 Explain/discuss:
 
 - Broader context (scientific/societal)
 - Current/previous solutions (limitations, trade-offs)
 
-This is where you need to think "what does your audience know?"
+This is where you need to think "what does your audience know? What do they
+care about?"
 
 Avoid clichés or statements that are obvious to your audience, no need to say
 _Studying the brain is important for understanding cognition_ in a neuroscience
 meeting!
+
 
 ---
 
@@ -100,9 +109,9 @@ these points.
 
 Assuming you have 10 minutes:
 
-1. Introduction/context (1 min)
+1. Background (2 min)
 2. Specific problem (2 min)
-3. Your solution (5 min)
+3. Your results (5 min)
 4. Conclusions (1 min)
 
 ---
