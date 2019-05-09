@@ -146,9 +146,9 @@ Assuming you have 10 minutes:
 - Look to the audience.
 - Watch your body language.
 - Tell a story. This does not mean _the real story of how you got to the
-  results_. That can be interesting, but mostly it means that there are
-  natural, logical, transitions between slides and not just one thing after
-  another.
+  results_. That can be interesting, but what is meant is _a **scientific
+  story**_, namely it means that there are natural, logical, transitions
+  between slides and not just one thing after another.
 
 ---
 
