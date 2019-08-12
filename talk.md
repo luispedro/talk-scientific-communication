@@ -87,10 +87,11 @@ talk at a department to a broader audience can be different.
 
 ## Narrative
 
-- Tell a _story_, but it's **a scientific story**.
-- It does not need to be the real story of the research process (_we read paper
-  X, so thought about hypothesis Y_...).
-- It is about how the slides follow and build upon each other.
+Tell a story. This does not mean _the real story of how you got to the
+results_. That can be interesting and is one way to do it, but not always the
+best. What is meant by _story_ is _a **scientific story**_, namely it means
+that there are natural, logical, transitions between slides and not just one
+thing after another.
 
 ---
 
@@ -154,10 +155,6 @@ Assuming you have 10 minutes:
 - You should not be reading.
 - Look to the audience.
 - Watch your body language.
-- Tell a story. This does not mean _the real story of how you got to the
-  results_. That can be interesting, but what is meant is _a **scientific
-  story**_, namely it means that there are natural, logical, transitions
-  between slides and not just one thing after another.
 
 ---
 
