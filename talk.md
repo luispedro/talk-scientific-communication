@@ -20,7 +20,7 @@ Many lessons apply to all these types of talk, but there are specificities too.
 We are focusing here on the _research talk_ context: a presentation of less
 than 30 minutes of novel scientific work to an audience of peers.
 
-This lecture has too much text to be a good research talk!
+**This lecture has too much text to be a good research talk**!
 
 ---
 
@@ -85,14 +85,23 @@ talk at a department to a broader audience can be different.
 
 ---
 
+## Narrative
+
+- Tell a _story_, but it's **a scientific story**.
+- It does not need to be the real story of the research process (_we read paper
+  X, so thought about hypothesis Y_...).
+- It is about how the slides follow and build upon each other.
+
+---
+
 ## Summarize at the end
 
 - Repeat the _key points_.
 - Not too many.
 
 _Tip_: when preparing **start with the summary slide**. In 10 minutes, you will
-be able to transmit 2-3 points, every other slide should serve to reinforce
-these points.
+be able to transmit 2-3 points, _every slide_ should serve to reinforce these
+points (if they don't, either toss them out or revise the narrative).
 
 ---
 
@@ -192,17 +201,15 @@ Almost always, there will be a small set of questions that keep coming up
 (which is why _preparation is important_), for those you can pre-prepare
 additional material.
 
-You can follow-up during the break (network!): _you asked about X? is that what
-you are working on or just curiosity?_ or _I don't have a good answer for X
-right now, but I would love to know more about it?_
+You can follow-up during the break (network)!
 
 ---
 
 ## Pace
 
 - Rules of thumb are mostly useless: _30 seconds per slide_, _one minute per
-  slide_, _two minutes per slide_, ... Really depends on your style and even
-  individual slides.
+  slide_, _two minutes per slide_, ... Really depends on your style and some
+  slides may require 10x more time than others.
 - Do not be faster than if you were writing on the whiteboard.
 - If you have issues with English, **slow down**.
 - Prepare _Breadcrumbs_ ("after 3 minutes, I should be finishing slide 4").
