@@ -2,6 +2,13 @@
 
 Luis Pedro Coelho
 
+[luis@luispedro.org](mailto:luis@luispedro.org)
+
+[@luispedrocoelho](https://twitter.com/luispedrocoelho)
+
+
+
+
 ---
 
 ## Oral research communications
