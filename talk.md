@@ -82,7 +82,7 @@ meeting!
 
 - This part should at least 50% of the time.
 - It is **your work**, it can be plural you (your group's work), but it is
-  should be _new_ material (for the audience)..
+  should be _new_ material (for the audience).
 - Do not present more background than necessary.
 - Even if you are presenting a paper, you do not need to present **the whole
   paper**. It can just be an advertisement to get people to read/cite it.
@@ -270,7 +270,7 @@ You will need to
 2. Avoid references to work that "everyone knows" in your field (maybe it is
    not so well known) or _inside references/jokes_
 
-You may end up present _less_ material in the time alloted: for example, if you
+You may end up present _less_ material in the time allotted: for example, if you
 are a computational person presenting to an applied audience, the best use of
 your time may be to present _the intuition behind your algorithm_ and some
 empirical evidence, leaving out any formal analyses altogether. This is
@@ -325,7 +325,7 @@ Instead of _y* = X · argminβ { |y - Xβ|² + λ₁|β|₁}_, write "using a li
 model".
 
 This does not mean, _avoid formulas_. If they are _relevant_ and you take the
-time to explain them and are presenting to a mathemically-literate audience,
+time to explain them and are presenting to a mathematically-literate audience,
 your whole presentation can be a series of formulas.
 
 ---
