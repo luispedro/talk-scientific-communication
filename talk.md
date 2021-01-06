@@ -156,6 +156,30 @@ Assuming you have 10 minutes:
 
 ---
 
+## Text on slides
+
+- Have text. Not too much. Don't read it.
+
+### Too much text
+
+> Disease X is a very important disease, with increasing prevalence in the
+> population. For example, in the US, an estimated 30% of the population will
+> be diagnosed with X in their lifetimes (compared to only 8% in 1999). In
+> China, the rate is still much lower, 12%, but expected to grow as population
+> increasingly adopts a sedentary lifestyle.
+
+### Better
+
+Just the main points (*with references*) and the narrative can be added orally:
+
+> Prevalence of X (lifetime):
+>
+> - US 1999:  8% (Author et al., Journal of X, 2004)
+> - US 2015: 30% (Author et al., Journal of X, 2018)
+> - China: 12% (SomeoneElse et al., Journal of X, 2017)
+
+---
+
 ## Slides/delivery
 
 - You need to explain what you are showing. Explain the axes on plots.
