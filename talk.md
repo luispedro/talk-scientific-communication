@@ -338,3 +338,13 @@ your whole presentation can be a series of formulas.
 - Watch out if you speed up/slow down when nervous.
 - Rely on your preparation (breadcrumbs, initial statements, ...).
 
+---
+
+## Most common piece of feedback
+
+From &gt;100s of peer feedback on student, presentation, by a large margin, the
+most common piece of feedback was:
+
+<div style="font-size: 92px; font-family: sans-serif">
+Make fonts bigger
+</div>
