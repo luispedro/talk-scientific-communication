@@ -175,8 +175,8 @@ Just the main points (*with references*) and the narrative can be added orally:
 > Prevalence of X (lifetime):
 >
 > - US 1999:  8% (Author et al., Journal of X, 2004)
-> - US 2015: 30% (Author et al., Journal of X, 2018)
-> - China: 12% (SomeoneElse et al., Journal of X, 2017)
+> - US 2020: 30% (Author et al., Journal of X, 2018)
+> - China 2019: 12% (SomeoneElse et al., Journal of X, 2017)
 
 ---
 
