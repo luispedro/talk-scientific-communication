@@ -329,6 +329,14 @@ time to explain them and are presenting to a mathematically-literate audience,
 your whole presentation can be a series of formulas.
 
 ---
+## Cite sources
+
+- If you use material from others, **you must cite it**.
+- If you can support specific statements with citations, _maybe do so_.
+- It should never be unclear what is your work and what is other people's work!
+- (Your work may be the plural you, not necessarily yours individually, but, in that case, name those individuals as authors).
+
+---
 
 ## Being nervous is normal
 
