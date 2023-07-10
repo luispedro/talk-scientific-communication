@@ -358,3 +358,15 @@ most common piece of feedback was:
 <div style="font-size: 92px; font-family: sans-serif">
 Make fonts bigger
 </div>
+
+---
+
+## Summary
+
+1. Practice, practice, practice
+2. _For whom? For what purpose?_
+
+<div style="text-align: center">
+<img src="./less_better.jpeg" style="width:44%" />
+</div>
+
