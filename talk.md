@@ -72,9 +72,11 @@ This is where you need to think "what does your audience know? What do they
 care about?"
 
 Avoid clichés or statements that are obvious to your audience, no need to say
-_Studying the brain is important for understanding cognition_ in a neuroscience
-meeting!
+_antimicrobial resistance is a problem_ if you are presenting in a Session on
+Antimicrobial Resistance!
 
+(I have literally been in a session where 4 different speakers started with the
+same quote from Fleming's Nobel address)
 
 ---
 
