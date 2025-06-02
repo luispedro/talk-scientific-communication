@@ -320,7 +320,7 @@ Often, it is just a matter of re-framing. Example:
 ## Avoid elements that only make the audience more confused
 
 For example, having mathematical formulas which *are tangential to the point*
-normally adds _no information for the people who are know what you mean_ but
+normally adds _no information for the people who know what you mean_ but
 _confuses those who do not_.
 
 Instead of _y* = X · argminβ { |y - Xβ|² + λ₁|β|₁}_, write "using a linear
